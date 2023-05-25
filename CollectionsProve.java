@@ -18,6 +18,7 @@ public class CollectionsProve
         //Collections.shuffle(list);
         Collections.swap(list,0, 3);
         System.out.println("modifica uno ciaoooo");
+        System.out.println("Modifica 2 ciao");
         System.out.println("Sorted list: " +list);
         for (String  fruit : list)
         {
