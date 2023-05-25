@@ -11,6 +11,7 @@ public class CollectionsProve
         list.add("Orange");
         list.add("Grapes");
         list.add("Strawberry");
+        list.add("Raspberry");
 
         //Collections.sort(list);
 
